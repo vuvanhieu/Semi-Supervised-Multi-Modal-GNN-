@@ -37,7 +37,7 @@ The model consists of five key components:
 
 A diagram is provided below:
 
-![Model Architecture](./reports/summary/model_architecture_diagram.png)
+![Model Architecture](Multi-modal-GCN.png)
 
 ```text
 Deep Features + Handcrafted Features → Fusion with Clinical Metadata → 
